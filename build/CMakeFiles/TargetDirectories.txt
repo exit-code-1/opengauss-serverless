@@ -1,0 +1,4 @@
+/home/zhy/opengauss/openGauss-server/build/CMakeFiles/edit_cache.dir
+/home/zhy/opengauss/openGauss-server/build/CMakeFiles/rebuild_cache.dir
+/home/zhy/opengauss/openGauss-server/build/hstore/CMakeFiles/edit_cache.dir
+/home/zhy/opengauss/openGauss-server/build/hstore/CMakeFiles/rebuild_cache.dir

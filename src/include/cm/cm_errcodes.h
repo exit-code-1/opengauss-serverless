@@ -1,0 +1,1 @@
+/home/zhy/opengauss/openGauss-Scale/src/lib/cm_common/cm_errcodes.h

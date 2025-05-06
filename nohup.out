@@ -1,0 +1,5 @@
+ROOT_DIR : /home/zhy/opengauss/openGauss-Scale
+[makegaussdb] 25-02-28 05:51:04: script dir : /home/zhy/opengauss/openGauss-Scale/build/script
+[makegaussdb] 25-02-28 05:51:04: Work root dir : /home/zhy/opengauss/openGauss-Scale
+WARNING: do not separate symbol in debug mode!
+now, all build has finished!

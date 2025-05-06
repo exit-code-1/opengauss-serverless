@@ -1,0 +1,1 @@
+/home/zhy/opengauss/openGauss-Scale/./src/gausskernel/storage/page/checksum_impl.cpp

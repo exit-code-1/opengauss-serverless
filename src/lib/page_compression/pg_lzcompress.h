@@ -1,0 +1,1 @@
+/home/zhy/opengauss/openGauss-Scale/./src/include/utils/pg_lzcompress.h
